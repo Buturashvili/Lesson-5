@@ -43,8 +43,9 @@ table {
 
 }
 .a{
-	text-decoration: none;
+	text-decoration: 0 none;
 }
+
 *{
 	box-sizing: border-box;
 }

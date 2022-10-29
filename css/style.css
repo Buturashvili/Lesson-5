@@ -1,0 +1,127 @@
+.header{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+}
+
+.header-div{
+	width: 1440px;
+	height: 50px;
+}
+.pic1{
+	margin-top:18px;
+	margin-right: 92px;
+	margin-left: 20px;
+	display: inline-block;
+}
+.navigation{
+	display: inline-block;
+}
+.navigation1{
+	display: inline-block;
+	padding: 20px;
+	font-size: 11px;
+	font-weight:bold;
+}
+.color{
+	
+	color: #343638;
+}
+.color1{
+	color: #A6ADB4;
+}
+.pic2{
+	display: inline-block;
+	margin-left: 40px;
+	vertical-align: middle;
+}
+/*section 1*/
+.up-section{
+	width: 1160px;
+	height: 410px;
+	margin: auto;
+	
+	margin-top: 75px;
+}
+.box1{
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.immg1{
+	margin-right: 40px;
+}
+
+.h2-2{
+	font-size: 24px;
+	margin-bottom: 40px;
+}
+.box1-text{
+	font-size: 13px;
+	width: 280px;
+	height: 38px;
+	text-align: left;
+	color: #A6ADB4;
+	margin-top: 66px;
+	margin-left: 40px;
+	margin-bottom: 10px;
+}
+.time-image{
+	width: 69px;
+	height: 16px;
+	margin-left: 40px;
+	margin-bottom: 40px;
+}
+.imagestyle{
+	position: relative;
+	width: 360px;
+	height: 182px;
+}
+.ptextstyle{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+
+/*meore nawili*/
+.down-section{
+	width: 1160px;
+	height: 900px;
+	margin: auto;
+	margin-top: 58px;
+}
+.leftstyle{
+	width: 760px;
+	height: 900px;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 40px;
+}
+.imgbox{
+	position: relative;
+	width: 760px;
+	height: 448px;	
+	margin-bottom: 20px;
+}
+.pteqsti{
+	position: absolute;
+	font-size: 16px;
+	top: 215px ;
+	left: 308px;
+	color: #FFFFFF;
+}
+.rightstyle{
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	vertical-align: top;
+}
+.middle{
+	margin-top: 102px;
+	margin-bottom: 102px;
+}
